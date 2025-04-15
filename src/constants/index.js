@@ -5,17 +5,41 @@ export const navLinks = [
     id: "home",
     title: "Home",
   },
+   {
+    id: "clients",
+    title: "About Us",
+  },
   {
     id: "features",
     title: "Features",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Trade Plans",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "How SpotGrid Works",
+  },
+   {
+    id: "clients",
+    title: "Download Free Guide PDF",
+  },
+   {
+    id: "clients",
+    title: "FAQS",
+  },
+   {
+    id: "clients",
+    title: "Leave A Review",
+  },
+   {
+    id: "clients",
+    title: "Contact Us",
+  },
+   {
+    id: "clients",
+    title: "Announcements",
   },
 ];
 
