@@ -6,7 +6,7 @@ export const navLinks = [
     title: "Home",
   },
    {
-    id: "clients",
+    link: "https://www.hoobank.com/explore/",
     title: "About Us",
   },
   {
@@ -14,35 +14,35 @@ export const navLinks = [
     title: "Features",
   },
   {
-    id: "product",
+   link: "https://www.hoobank.com/explore/",
     title: "Trade Packages",
   },
   {
-    id: "clients",
+    link: "https://www.hoobank.com/explore/",
     title: "Our SpotGrid System",
   },
    {
-    id: "clients",
+    link: "https://www.hoobank.com/explore/",
     title: "What Is Digital Asset?",
   },
    {
-    id: "clients",
+    link: "https://www.hoobank.com/explore/",
     title: "Download Free Guide PDF",
   },
    {
-    id: "clients",
+   link: "https://www.hoobank.com/explore/",
     title: "Leave A Review",
   },
    {
-    id: "clients",
+    link: "https://www.hoobank.com/explore/",
     title: "Announcements",
   },
    {
-    id: "clients",
+    link: "https://www.hoobank.com/explore/",
     title: "Contact Us",
   },
     {
-    id: "clients",
+    link: "https://www.hoobank.com/explore/",
     title: "FAQS",
   },
 ];
