@@ -22,13 +22,11 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        Trade Smarter, <br className="sm:block hidden" />Not Harder
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+       We Offers a dynamic range of automated trading and investment 
+        solutions tailored to meet the needs of both beginner and seasoned investors.
       </p>
 
       <Button styles={`mt-10`} />
