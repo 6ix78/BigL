@@ -53,7 +53,7 @@ export const features = [
     icon: star,
     title: "Secure Investment Environment",
     content:
-      "Security at its finest. Our platform employs advanced encryption and security protocols to ensure your investments are protected at all times. Trade and invest with peace of mind, knowing your assets are in safe hands",
+      "Security at its finest. Our platform employs advanced encryption and security protocols to ensure your investments are protected at all times.",
   },
   {
     id: "feature-1",
