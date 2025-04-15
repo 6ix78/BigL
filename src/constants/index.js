@@ -15,11 +15,15 @@ export const navLinks = [
   },
   {
     id: "product",
-    title: "Trade Plans",
+    title: "Trade Packages",
   },
   {
     id: "clients",
-    title: "How SpotGrid Works",
+    title: "Our SpotGrid System",
+  },
+   {
+    id: "clients",
+    title: "What Is Digital Asset?",
   },
    {
     id: "clients",
@@ -27,19 +31,19 @@ export const navLinks = [
   },
    {
     id: "clients",
-    title: "FAQS",
+    title: "Leave A Review",
   },
    {
     id: "clients",
-    title: "Leave A Review",
+    title: "Announcements",
   },
    {
     id: "clients",
     title: "Contact Us",
   },
-   {
+    {
     id: "clients",
-    title: "Announcements",
+    title: "FAQS",
   },
 ];
 
