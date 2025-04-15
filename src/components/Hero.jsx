@@ -16,8 +16,8 @@ const Hero = () => {
 
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
-            Trade Smarter<br className="sm:block hidden" />{" "}
-            <span className="text-gradient">ExTradeBot</span>for Maximum Gains!{" "}
+            ExTradeBot<br className="sm:block hidden" />{" "}
+            <span className="text-gradient">automates your path to success</span>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
             <GetStarted />
