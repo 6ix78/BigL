@@ -6,12 +6,8 @@ export const navLinks = [
     title: "Home",
   },
    {
-    link: "https://www.hoobank.com/explore/",
-    title: "About Us",
-  },
-  {
-    id: "features",
-    title: "Features",
+     title: "Features",
+     link: "https://www.hoobank.com/explore/",
   },
   {
    link: "https://www.hoobank.com/explore/",
