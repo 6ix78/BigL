@@ -78,8 +78,8 @@ export const stats = [
   },
   {
     id: "stats-2",
-    title: "Trades",
-    value: "230M+",
+    title: "Active Bots",
+    value: "230+",
   },
   {
     id: "stats-3",
