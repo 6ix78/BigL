@@ -49,25 +49,25 @@ export const navLinks = [
 
 export const features = [
   {
-    id: "feature-1",
+    id: "feature-2",
     icon: star,
-    title: "Rewards",
+    title: "Secure Investment Environment",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Security at its finest. Our platform employs advanced encryption and security protocols to ensure your investments are protected at all times. Trade and invest with peace of mind, knowing your assets are in safe hands",
   },
   {
-    id: "feature-2",
+    id: "feature-1",
     icon: shield,
-    title: "100% Secured",
+    title: "User-Friendly Interface",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Navigate the complex world of crypto with ease. FinFunder’s intuitive interface simplifies trading and investing, making it accessible for both beginners and experienced traders.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "qDiverse Portfolio Management",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Expand your investment horizons with our diverse portfolio options. From mainstream cryptocurrencies to emerging tokens, tailor your investment strategy to suit your financial goals.",
   },
 ];
 
@@ -83,7 +83,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Expand your investment horizons with our diverse portfolio options. From mainstream cryptocurrencies to emerging tokens, tailor your investment strategy to suit your financial goals.",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
