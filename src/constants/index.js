@@ -17,7 +17,7 @@ export const navLinks = [
     title: "Trade Packages",
   },
   
-   {
+   { 
    link: "https://www.hoobank.com/explore/",
     title: "Leave A Review",
   },
