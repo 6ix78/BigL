@@ -1,6 +1,33 @@
 import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
+  
+    {
+    title: "",
+    links: [
+      {
+        name: "Content",
+        link: "https://www.hoobank.com/content/",
+      },
+      {
+        name: "How it Works",
+        link: "https://www.hoobank.com/how-it-works/",
+      },
+      {
+        name: "Create",
+        link: "https://www.hoobank.com/create/",
+      },
+      {
+        name: "Explore",
+        link: "https://www.hoobank.com/explore/",
+      },
+      {
+        name: "Terms & Services",
+        link: "https://www.hoobank.com/terms-and-services/",
+      },
+    ],
+  },
+  
   {
     id: "home",
     title: "Home",
