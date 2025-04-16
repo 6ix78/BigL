@@ -2,68 +2,51 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 
 export const navLinks = [
   
-    {
-    title: "",
-    links: [
-      {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
-      },
-      {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
-      },
-      {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
-      },
-      {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
-      },
-      {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
-      },
-    ],
-  },
-  
   {
     id: "home",
     title: "Home",
   },
+  
    {
-     title: "Features",
      link: "https://www.hoobank.com/explore/",
+     title: "Features",
   },
+  
   {
    link: "https://www.hoobank.com/explore/",
     title: "Trade Packages",
   },
+  
   {
     link: "https://www.hoobank.com/explore/",
     title: "Our SpotGrid System",
   },
+  
    {
     link: "https://www.hoobank.com/explore/",
     title: "What Is Digital Asset?",
   },
+  
    {
     link: "https://www.hoobank.com/explore/",
     title: "Download Free Guide PDF",
   },
+  
    {
    link: "https://www.hoobank.com/explore/",
     title: "Leave A Review",
   },
+  
    {
     link: "https://www.hoobank.com/explore/",
     title: "Announcements",
   },
+  
    {
     link: "https://www.hoobank.com/explore/",
     title: "Contact Us",
   },
+  
     {
     link: "https://www.hoobank.com/explore/",
     title: "FAQS",
