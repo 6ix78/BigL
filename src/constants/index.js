@@ -17,21 +17,6 @@ export const navLinks = [
     title: "Trade Packages",
   },
   
-  {
-    link: "https://www.hoobank.com/explore/",
-    title: "Our SpotGrid System",
-  },
-  
-   {
-    link: "https://www.hoobank.com/explore/",
-    title: "What Is Digital Asset?",
-  },
-  
-   {
-    link: "https://www.hoobank.com/explore/",
-    title: "Download Free Guide PDF",
-  },
-  
    {
    link: "https://www.hoobank.com/explore/",
     title: "Leave A Review",
@@ -184,6 +169,22 @@ export const footerLinks = [
         name: "Become a Partner",
         link: "https://www.hoobank.com/become-a-partner/",
       },
+        
+  {
+    link: "https://www.hoobank.com/explore/",
+    title: "Our SpotGrid System",
+  },
+  
+   {
+    link: "https://www.hoobank.com/explore/",
+    title: "What Is Digital Asset?",
+  },
+  
+   {
+    link: "https://www.hoobank.com/explore/",
+    title: "Download Free Guide PDF",
+  },
+      
     ],
   },
 ];
@@ -205,7 +206,7 @@ export const socialMedia = [
     link: "https://www.twitter.com/",
   },
   {
-    id: "social-media-4",
+    id: "social-media-5",
     icon: linkedin,
     link: "https://www.linkedin.com/",
   },
