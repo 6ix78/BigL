@@ -8,7 +8,7 @@ export const navLinks = [
   },
   
    {
-     link: "https://www.hoobank.com/explore/",
+     link: "https://big-l-wheat.vercel.app",
      title: "Features",
   },
   
