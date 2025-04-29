@@ -8,7 +8,7 @@ const GetStarted = () => (
         <p className="font-poppins font-medium text-[18px] leading-[23.4px]">
           <span className="text-gradient">Get</span>
         </p>
-        <a href="https://daring-turtle-33.accounts.dev/sign-up?redirect_url=https%3A%2F%2Fclerk-authentication-starter-ivory.vercel.app%2F%3F__dev_session%3Ddvb_2wO9F3Q1OXw0GvpnDN9JScZ5asb%26__clerk_db_jwt%3Ddvb_2wO9F3Q1OXw0GvpnDN9JScZ5asb%23__clerk_db_jwt%5Bdvb_2wO9F3Q1OXw0GvpnDN9JScZ5asb%5D">
+        <a href="https://daring-turtle-33.accounts.dev/sign-up?redirect_url=https%3A%2F%2Fclerk-authentication-starter-ivory.vercel.app%2F%3F__dev_session%3Ddvb_2wO9F3Q1OXw0GvpnDN9JScZ5asb%26__clerk_db_jwt%3Ddvb_2wO9F3Q1OXw0GvpnDN9JScZ5asb%23__clerk_db_jwt%5Bdvb_2wO9F3Q1OXw0GvpnDN9JScZ5asb%5D" >
         <span>
         <img src={arrowUp} alt="arrow-up" className="w-[23px] h-[23px] object-contain" />
           </span></a>
