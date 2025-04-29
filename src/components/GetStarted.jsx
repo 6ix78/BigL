@@ -8,7 +8,9 @@ const GetStarted = () => (
         <p className="font-poppins font-medium text-[18px] leading-[23.4px]">
           <span className="text-gradient">Get</span>
         </p>
+        <a href="https://daring-turtle-33.accounts.dev/sign-in?redirect_url=https%3A%2F%2Fclerk-authentication-starter-ivory.vercel.app%2F"><span>
         <img src={arrowUp} alt="arrow-up" className="w-[23px] h-[23px] object-contain" />
+          </span></a>
       </div>
       
       <p className="font-poppins font-medium text-[18px] leading-[23.4px]">
