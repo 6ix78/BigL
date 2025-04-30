@@ -13,8 +13,8 @@ export const navLinks = [
   },
   
   {
-   link: "https://www.hoobank.com/explore/",
-    title: "Trade Packages",
+   link: "https://padd-two.vercel.app/",
+    title: "Our Packages",
   },
   
    { 
